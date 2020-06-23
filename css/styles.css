@@ -1,0 +1,22 @@
+body {
+  background-color: #fafafa;
+}
+
+h1 {
+  color: #07689f;
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
+h3 {
+  color: #07689f;
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
+hr {
+  border-color: #ff7e67;
+  border-width: 5px;
+  border-style: dotted none none none;
+  width: 10%;
+}
